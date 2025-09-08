@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vikitoshi/Mova-Auto-Bot.git"
+    "url": "https://github.com/UniDaga/Mova.git"
   },
   "keywords": [
     "mova",
@@ -29,14 +29,14 @@
     "defi"
   ],
   "author": {
-    "name": "airdrop insiders",
-    "url": "https://github.com/vikitoshi"
+    "name": "unidaga",
+    "url": "https://github.com/UniDaga"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vikitoshi/Mova-Auto-Bot/issues"
+    "url": "https://github.com/UniDaga/Mova/issues"
   },
-  "homepage": "https://github.com/vikitoshi/Mova-Auto-Bot#readme",
+  "homepage": "https://github.com/UniDaga/Mova#readme",
   "dependencies": {
     "axios": "^1.7.2",
     "ethers": "^6.12.1",
